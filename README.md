@@ -3,9 +3,9 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=zeldalorddactivatewindows&langs_count=8&theme=tokyonight&layout=compact&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=uwudwagonl&langs_count=8&theme=tokyonight&layout=compact&include_orgs=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=zeldalorddactivatewindows&count_private=true&show_icons=true&theme=tokyonight&include_orgs=true&hide_border=true&bg_color=1a1b27)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=uwudwagonl&count_private=true&show_icons=true&theme=tokyonight&include_orgs=true&hide_border=true&bg_color=1a1b27)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -51,7 +51,7 @@ blehhhh
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zeldalorddactivatewindows&theme=tokyonight&hide_border=true&background=1a1b27)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=uwudwagonl&theme=tokyonight&hide_border=true&background=1a1b27)](https://git.io/streak-stats)
 
 </div>
 
@@ -61,11 +61,8 @@ blehhhh
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/-pjhq.dev-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pjhq.dev/)
 [![Instagram](https://img.shields.io/badge/-@God-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vielzukuhl)
-[![Twitter](https://img.shields.io/badge/-@PJHQ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/PJHQdevs](https://x.com/PJHQdevs))
-
-**business:** uwudwagon@pjhq.dev • **private:** benjaminstockhamer@gmail.com
+[![Twitter](https://img.shields.io/badge/-@PJHQ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/PJHQdevs](https://x.com/uwudwagoon))
 
 </div>
 
