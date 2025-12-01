@@ -62,7 +62,7 @@ blehhhh
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/-@God-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vielzukuhl)
-[![Twitter](https://img.shields.io/badge/-@PJHQ-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/PJHQdevs](https://x.com/uwudwagoon))
+[![Twitter](https://img.shields.io/badge/-@God-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/PJHQdevs](https://x.com/uwudwagoon))
 
 </div>
 
